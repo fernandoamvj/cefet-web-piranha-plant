@@ -1,1 +1,28 @@
-fsadfa
+ body{
+	    background-image: url(imagens/videira.png);
+		background-repeat: no-repeat;
+		
+		background-position: top right;
+		margin-bottom: 10%;
+        margin-top: 8%;
+		margin-left: 10%;
+		margin-right: 10%;
+		line-height:150px;
+	  }
+	  td,tr{
+		border:1px solid black;
+	  }
+	  img{
+		border-width: 4px;
+		border-style: solid;
+		border-color: lightgreen;
+		position:relative;
+		top:50%;
+		left:50%;
+	   
+		
+	  }
+	  h1{
+		font-family: "Times New Roman", serif;
+			
+	}
